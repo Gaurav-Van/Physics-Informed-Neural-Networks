@@ -78,4 +78,9 @@ Boundary Loss + Physics Loss
 ![image](https://github.com/user-attachments/assets/b5204b08-e848-4696-b80a-cac4157700f0)
 #### Combined Loss Function 
 ![image](https://github.com/user-attachments/assets/23bc4d53-ad35-4d74-825f-8211a7c25252)
+<hr>
+
+#### `PINN_harmonic_oscillator.gif`
+
+![](PINN_harmonic_oscillator.gif)
 
